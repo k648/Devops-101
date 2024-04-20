@@ -1,5 +1,4 @@
-greetings='Hello World'
-print(greetings)
+print('Hello World')
 
 
 
